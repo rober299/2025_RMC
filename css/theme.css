@@ -8208,7 +8208,7 @@ html[xmlns] .clearfix {
 }
 
 .text-color-light, .text-light {
-	color: var(--light) !important;
+	color: black !important;
 }
 
 .text-color-light-100, .text-light-100 {
@@ -8256,7 +8256,7 @@ html[xmlns] .clearfix {
 }
 
 .text-grey, .text-color-grey {
-	color: var(--grey) !important;
+	color: black !important;
 }
 
 .text-hover-grey:hover, .text-color-hover-grey:hover {
