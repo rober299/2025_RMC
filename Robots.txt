@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+
+Sitemap: https://rober299.github.io/2025_RMC/sitemap.xml
